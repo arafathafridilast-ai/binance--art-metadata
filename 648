@@ -1,0 +1,83 @@
+{
+  "name": "Misty Royal Cat Warrior of Royal Gardens",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Misty Royal Cat Warrior of Royal Gardens is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1ThfD_SjLyheuQKcZnp-DiEiWT1RuNO39",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Misty Royal Cat Warrior of Royal Gardens"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Mystic"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Epic (8.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Frozen Lunar Crossbow of Dawn"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "A"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Western"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2605\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "19.89%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 30
+    },
+    {
+      "trait_type": "Size",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 0
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Power",
+      "value": 46
+    },
+    {
+      "trait_type": "Speed",
+      "value": 62
+    },
+    {
+      "trait_type": "Luck",
+      "value": 17
+    }
+  ]
+}

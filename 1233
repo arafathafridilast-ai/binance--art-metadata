@@ -1,0 +1,83 @@
+{
+  "name": "Storm Noble Cat Warrior of Jasper Town",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Storm Noble Cat Warrior of Jasper Town is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=19u48zQ_ipu3i1mnHgZrVwjIla4OH7-ck",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Storm Noble Cat Warrior of Jasper Town"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Hunter"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Common (16.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Cursed Ember Staff of Shadows"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "S"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Horror"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2605\u2605"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "9.60%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sunset"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 15
+    },
+    {
+      "trait_type": "Size",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Dots"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 14
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Power",
+      "value": 80
+    },
+    {
+      "trait_type": "Speed",
+      "value": 67
+    },
+    {
+      "trait_type": "Luck",
+      "value": 55
+    }
+  ]
+}

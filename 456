@@ -1,0 +1,83 @@
+{
+  "name": "Ember Clever Cat Warrior of Moonvale",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Ember Clever Cat Warrior of Moonvale is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=17KyxJPKh0WYBr7NFA6HGYE2w7z0ognem",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Ember Clever Cat Warrior of Moonvale"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Rare (10.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Ancient Venom Crossbow of Shadows"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "B"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Action"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "18.85%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Desert"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 45
+    },
+    {
+      "trait_type": "Size",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "None"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 7
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Power",
+      "value": 10
+    },
+    {
+      "trait_type": "Speed",
+      "value": 93
+    },
+    {
+      "trait_type": "Luck",
+      "value": 90
+    }
+  ]
+}

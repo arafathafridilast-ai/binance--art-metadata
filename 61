@@ -1,0 +1,83 @@
+{
+  "name": "Ember Storm Cat Warrior of Silver Lake",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Ember Storm Cat Warrior of Silver Lake is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=14rF8nFBVc1vKDVeGReu-9ctSOSbbapHX",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Ember Storm Cat Warrior of Silver Lake"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Scout"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Common (23.90%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Frozen Dragonbone Crossbow of the Sun"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "B"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Horror"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2605\u2605"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "15.21%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Mint"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 30
+    },
+    {
+      "trait_type": "Size",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 7
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Power",
+      "value": 15
+    },
+    {
+      "trait_type": "Speed",
+      "value": 21
+    },
+    {
+      "trait_type": "Luck",
+      "value": 83
+    }
+  ]
+}

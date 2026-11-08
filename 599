@@ -1,0 +1,83 @@
+{
+  "name": "Storm Swift Cat Warrior of Moonvale",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Storm Swift Cat Warrior of Moonvale is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1psy4lBrbrwFmv2OoTAqwdNEJa_WLxauj",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Storm Swift Cat Warrior of Moonvale"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Rare (14.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Cursed Mithril Axe of Shadows"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "SSR"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Thriller"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2606\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "3.03%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Desert"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 15
+    },
+    {
+      "trait_type": "Size",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "None"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "None"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 14
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 1
+    },
+    {
+      "trait_type": "Speed",
+      "value": 40
+    },
+    {
+      "trait_type": "Luck",
+      "value": 66
+    }
+  ]
+}
