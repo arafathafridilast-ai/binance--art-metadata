@@ -1,0 +1,83 @@
+{
+  "name": "Azure Iron Cat Warrior of Frog Pond",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Azure Iron Cat Warrior of Frog Pond is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1_68rwQ5ZiRuKLry_VWIny9-G1GcU0eUJ",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Azure Iron Cat Warrior of Frog Pond"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Scout"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Common (23.90%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Royal Golden Dagger of Dawn"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "C"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Mystery"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "38.20%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 75
+    },
+    {
+      "trait_type": "Size",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Grid"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 7
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Power",
+      "value": 25
+    },
+    {
+      "trait_type": "Speed",
+      "value": 68
+    },
+    {
+      "trait_type": "Luck",
+      "value": 29
+    }
+  ]
+}

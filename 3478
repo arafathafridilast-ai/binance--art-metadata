@@ -1,0 +1,83 @@
+{
+  "name": "Scarlet Mighty Cat Warrior of Onyx Cave",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Scarlet Mighty Cat Warrior of Onyx Cave is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=13AwdygtxPbOTAWi1aQc7fOWulzSLCKHU",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Scarlet Mighty Cat Warrior of Onyx Cave"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Mystic"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Epic (8.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Savage Ember Crossbow of the Void"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "S"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Thriller"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "20.54%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 90
+    },
+    {
+      "trait_type": "Size",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "None"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 14
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 32
+    },
+    {
+      "trait_type": "Speed",
+      "value": 44
+    },
+    {
+      "trait_type": "Luck",
+      "value": 47
+    }
+  ]
+}

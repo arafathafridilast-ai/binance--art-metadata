@@ -1,0 +1,83 @@
+{
+  "name": "Onyx Hidden Cat Warrior of Skyreach",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Onyx Hidden Cat Warrior of Skyreach is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1B-C9Zk2xWvDKxLr4hFITh-Fkj2x6idqC",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Onyx Hidden Cat Warrior of Skyreach"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Hunter"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Common (16.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Savage Crystal Bow of Storms"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "B"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Sci-Fi"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2605\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "39.55%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ember"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 120
+    },
+    {
+      "trait_type": "Size",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "None"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 0
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 68
+    },
+    {
+      "trait_type": "Speed",
+      "value": 51
+    },
+    {
+      "trait_type": "Luck",
+      "value": 27
+    }
+  ]
+}

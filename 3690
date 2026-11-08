@@ -1,0 +1,83 @@
+{
+  "name": "Velvet Wild Cat Warrior of Foxglove",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Velvet Wild Cat Warrior of Foxglove is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1PcC3Ksgf6wfcQr_JQqs_7wjmM7AYmwlt",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Velvet Wild Cat Warrior of Foxglove"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Rare (10.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Silent Frost Sword of Thunder"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "C"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Comedy"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2606\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "37.49%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ember"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 75
+    },
+    {
+      "trait_type": "Size",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 7
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Power",
+      "value": 86
+    },
+    {
+      "trait_type": "Speed",
+      "value": 78
+    },
+    {
+      "trait_type": "Luck",
+      "value": 74
+    }
+  ]
+}

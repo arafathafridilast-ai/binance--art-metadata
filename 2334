@@ -1,0 +1,83 @@
+{
+  "name": "Thunder Silver Cat Warrior of Stormrest",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Thunder Silver Cat Warrior of Stormrest is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1MoDxm236nfDylCAgt3_lGIdasSSTWtiv",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Thunder Silver Cat Warrior of Stormrest"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Rare (14.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Royal Thunder Bow of Storms"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "A"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Adventure"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "24.27%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Rose"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 120
+    },
+    {
+      "trait_type": "Size",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Grid"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 14
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 61
+    },
+    {
+      "trait_type": "Speed",
+      "value": 93
+    },
+    {
+      "trait_type": "Luck",
+      "value": 49
+    }
+  ]
+}

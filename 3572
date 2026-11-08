@@ -1,0 +1,83 @@
+{
+  "name": "Azure Sapphire Cat Warrior of Ironhold",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Azure Sapphire Cat Warrior of Ironhold is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1xlJtcxHjblC_VZkL3uy05Bma4gbXISzz",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Azure Sapphire Cat Warrior of Ironhold"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Paladin"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Epic (5.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Silent Golden Katana of the Deep"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "A"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Horror"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2606\u2606\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "32.34%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Shadow"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 90
+    },
+    {
+      "trait_type": "Size",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "None"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 0
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Power",
+      "value": 38
+    },
+    {
+      "trait_type": "Speed",
+      "value": 40
+    },
+    {
+      "trait_type": "Luck",
+      "value": 11
+    }
+  ]
+}

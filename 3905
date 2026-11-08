@@ -1,0 +1,83 @@
+{
+  "name": "Velvet Brave Cat Warrior of Crystal Cavern",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Velvet Brave Cat Warrior of Crystal Cavern is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1vKEcrmLhWkVZ9-E-b0_YWEK0lcRPBQn0",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Velvet Brave Cat Warrior of Crystal Cavern"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Paladin"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Epic (5.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Silent Starlight Staff of Shadows"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "B"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Sci-Fi"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2606\u2606\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "37.80%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 120
+    },
+    {
+      "trait_type": "Size",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 7
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 3
+    },
+    {
+      "trait_type": "Speed",
+      "value": 12
+    },
+    {
+      "trait_type": "Luck",
+      "value": 31
+    }
+  ]
+}

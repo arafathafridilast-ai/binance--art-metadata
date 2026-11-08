@@ -1,0 +1,83 @@
+{
+  "name": "Velvet Ancient Cat Warrior of Royal Gardens",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Velvet Ancient Cat Warrior of Royal Gardens is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1Ed7MlvYRHOHjbyHpVKjXcPKaeAxfoIf8",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Velvet Ancient Cat Warrior of Royal Gardens"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Mystic"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Epic (8.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Royal Iron Axe of Light"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "C"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Horror"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "38.12%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 75
+    },
+    {
+      "trait_type": "Size",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "None"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 14
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 90
+    },
+    {
+      "trait_type": "Speed",
+      "value": 38
+    },
+    {
+      "trait_type": "Luck",
+      "value": 71
+    }
+  ]
+}

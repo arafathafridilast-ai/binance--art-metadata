@@ -1,0 +1,83 @@
+{
+  "name": "Jasper Frosty Cat Warrior of Ivory Tower",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Jasper Frosty Cat Warrior of Ivory Tower is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1KfZGeu7VZ8faR0xbH9hpOHMzlXLOmwTu",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Jasper Frosty Cat Warrior of Ivory Tower"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Scout"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Common (23.90%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Blessed Ember Wand of the Moon"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "C"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Thriller"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2605\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "29.62%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 135
+    },
+    {
+      "trait_type": "Size",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "None"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 7
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 81
+    },
+    {
+      "trait_type": "Speed",
+      "value": 72
+    },
+    {
+      "trait_type": "Luck",
+      "value": 74
+    }
+  ]
+}

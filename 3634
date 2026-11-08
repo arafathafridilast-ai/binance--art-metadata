@@ -1,0 +1,83 @@
+{
+  "name": "Willow Thunder Cat Warrior of Mystic Falls",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Willow Thunder Cat Warrior of Mystic Falls is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1Iv6vPNyDWQmZBHN-0HUDsPFN_8bKPXQq",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Willow Thunder Cat Warrior of Mystic Falls"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Hunter"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Common (16.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Silent Shadow Bow of Storms"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "C"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Horror"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "39.23%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 135
+    },
+    {
+      "trait_type": "Size",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 14
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Power",
+      "value": 30
+    },
+    {
+      "trait_type": "Speed",
+      "value": 47
+    },
+    {
+      "trait_type": "Luck",
+      "value": 99
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "name": "Sapphire Gentle Cat Warrior of Iron Gate",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Sapphire Gentle Cat Warrior of Iron Gate is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1AF2wbgsIa_09TqiT-4-ohbFwtGZ-44d9",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Sapphire Gentle Cat Warrior of Iron Gate"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Rare (14.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Royal Shadow Mace of Kings"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "C"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Western"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "27.65%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Shadow"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 90
+    },
+    {
+      "trait_type": "Size",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "None"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 14
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Power",
+      "value": 99
+    },
+    {
+      "trait_type": "Speed",
+      "value": 30
+    },
+    {
+      "trait_type": "Luck",
+      "value": 75
+    }
+  ]
+}

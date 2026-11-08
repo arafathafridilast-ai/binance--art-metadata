@@ -1,0 +1,83 @@
+{
+  "name": "Willow Hidden Cat Warrior of Brightfield",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Willow Hidden Cat Warrior of Brightfield is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=17IztujJu_DnfmupnabyogZ31dHg1Nor1",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Willow Hidden Cat Warrior of Brightfield"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Rare (10.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Savage Thunder Spear of Frost"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "SR"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Horror"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2606\u2606\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "21.08%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ocean"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 90
+    },
+    {
+      "trait_type": "Size",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "None"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "None"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 14
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 32
+    },
+    {
+      "trait_type": "Speed",
+      "value": 9
+    },
+    {
+      "trait_type": "Luck",
+      "value": 53
+    }
+  ]
+}

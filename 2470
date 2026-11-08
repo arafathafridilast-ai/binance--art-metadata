@@ -1,0 +1,83 @@
+{
+  "name": "Azure Ivory Cat Warrior of Starhaven",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Azure Ivory Cat Warrior of Starhaven is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1m4yv-u10kZYUimNe38lKy8ATs8Ekv9NX",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Azure Ivory Cat Warrior of Starhaven"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Paladin"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Epic (5.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Blessed Crystal Crossbow of Shadows"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "C"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2605\u2605"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "33.45%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ocean"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 90
+    },
+    {
+      "trait_type": "Size",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Dots"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 0
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Power",
+      "value": 97
+    },
+    {
+      "trait_type": "Speed",
+      "value": 6
+    },
+    {
+      "trait_type": "Luck",
+      "value": 8
+    }
+  ]
+}

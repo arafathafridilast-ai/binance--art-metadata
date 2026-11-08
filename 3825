@@ -1,0 +1,83 @@
+{
+  "name": "Sapphire Silver Cat Warrior of Thornfield",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Sapphire Silver Cat Warrior of Thornfield is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1uzyGeiYQtE0R-ZFHxKLQJi_zxUN8IWSf",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Sapphire Silver Cat Warrior of Thornfield"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Paladin"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Epic (5.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Savage Frost Staff of the Moon"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "C"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Horror"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "32.48%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ember"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 120
+    },
+    {
+      "trait_type": "Size",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "None"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Grid"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 14
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 17
+    },
+    {
+      "trait_type": "Speed",
+      "value": 50
+    },
+    {
+      "trait_type": "Luck",
+      "value": 73
+    }
+  ]
+}

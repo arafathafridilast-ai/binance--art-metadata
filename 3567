@@ -1,0 +1,83 @@
+{
+  "name": "Azure Mystic Cat Warrior of Moonvale",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Azure Mystic Cat Warrior of Moonvale is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1BZYWQeOJn2Sl97qA3iinrRBhwckexcQb",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Azure Mystic Cat Warrior of Moonvale"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Scout"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Common (23.90%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Silent Shadow Crossbow of Embers"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "SSR+"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Western"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "28.08%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Rose"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 105
+    },
+    {
+      "trait_type": "Size",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Grid"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 0
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 33
+    },
+    {
+      "trait_type": "Speed",
+      "value": 32
+    },
+    {
+      "trait_type": "Luck",
+      "value": 66
+    }
+  ]
+}

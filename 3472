@@ -1,0 +1,83 @@
+{
+  "name": "Ruby Clever Cat Warrior of Rabbit Hole",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Ruby Clever Cat Warrior of Rabbit Hole is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1I2fshovTQOp04PeQYTYAwkOsvb_Ws28Q",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Ruby Clever Cat Warrior of Rabbit Hole"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Rare (14.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Silent Obsidian Crossbow of Kings"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "C"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2606\u2606\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "31.67%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Midnight"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 105
+    },
+    {
+      "trait_type": "Size",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "None"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 7
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 27
+    },
+    {
+      "trait_type": "Speed",
+      "value": 53
+    },
+    {
+      "trait_type": "Luck",
+      "value": 87
+    }
+  ]
+}

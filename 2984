@@ -1,0 +1,83 @@
+{
+  "name": "Ruby Cosmic Cat Warrior of Crystal Cavern",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Ruby Cosmic Cat Warrior of Crystal Cavern is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1nJX1gsoP209E4PfCtP8eEuKDnSB9yqF4",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Ruby Cosmic Cat Warrior of Crystal Cavern"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Rare (14.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Blessed Dragonbone Sword of Dawn"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "C"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Fantasy"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2605\u2605"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "38.57%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 75
+    },
+    {
+      "trait_type": "Size",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 0
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 74
+    },
+    {
+      "trait_type": "Speed",
+      "value": 1
+    },
+    {
+      "trait_type": "Luck",
+      "value": 14
+    }
+  ]
+}

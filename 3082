@@ -1,0 +1,83 @@
+{
+  "name": "Ivory Solar Cat Warrior of Royal Gardens",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Ivory Solar Cat Warrior of Royal Gardens is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1aXvGsiOkMVNTloMjPAz9czyuc5w5iM_E",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Ivory Solar Cat Warrior of Royal Gardens"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Royal"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Legendary (4.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Silent Solar Bow of Dusk"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "C"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Horror"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2605\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "21.58%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Desert"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 135
+    },
+    {
+      "trait_type": "Size",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "None"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 14
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 21
+    },
+    {
+      "trait_type": "Speed",
+      "value": 28
+    },
+    {
+      "trait_type": "Luck",
+      "value": 64
+    }
+  ]
+}

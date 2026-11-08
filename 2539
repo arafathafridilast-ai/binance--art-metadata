@@ -1,0 +1,83 @@
+{
+  "name": "Sapphire Frost Cat Warrior of Ironhold",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Sapphire Frost Cat Warrior of Ironhold is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1N5PDUOYknXf8fks6cjIzh-fsLwMFOGKk",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Sapphire Frost Cat Warrior of Ironhold"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Rare (14.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Silent Lunar Scythe of Kings"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "B"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "25.44%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 120
+    },
+    {
+      "trait_type": "Size",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "None"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 14
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Power",
+      "value": 38
+    },
+    {
+      "trait_type": "Speed",
+      "value": 11
+    },
+    {
+      "trait_type": "Luck",
+      "value": 30
+    }
+  ]
+}

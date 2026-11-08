@@ -1,0 +1,83 @@
+{
+  "name": "Azure Blaze Cat Warrior of Goldleaf",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Azure Blaze Cat Warrior of Goldleaf is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1HGKHO_ljEK1mL1ryg48dmxB-N_Od3y6t",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Azure Blaze Cat Warrior of Goldleaf"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Royal"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Legendary (4.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Royal Shadow Bow of Dawn"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "B"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Horror"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "30.68%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Mint"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 120
+    },
+    {
+      "trait_type": "Size",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Dots"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 14
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 92
+    },
+    {
+      "trait_type": "Speed",
+      "value": 97
+    },
+    {
+      "trait_type": "Luck",
+      "value": 25
+    }
+  ]
+}

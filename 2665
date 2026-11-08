@@ -1,0 +1,83 @@
+{
+  "name": "Ruby Brave Cat Warrior of Solar Flare",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Ruby Brave Cat Warrior of Solar Flare is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=14z3JpsB3JvVQ9KjMx3uJYwA_O1Rj-5_q",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Ruby Brave Cat Warrior of Solar Flare"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Scout"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Common (23.90%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Silent Venom Mace of Flames"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "A"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Fantasy"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2606\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "20.09%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Desert"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 75
+    },
+    {
+      "trait_type": "Size",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Dots"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 14
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 48
+    },
+    {
+      "trait_type": "Speed",
+      "value": 1
+    },
+    {
+      "trait_type": "Luck",
+      "value": 17
+    }
+  ]
+}

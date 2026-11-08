@@ -1,0 +1,83 @@
+{
+  "name": "Ruby Hunter Cat Warrior of Dawnbreak",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Ruby Hunter Cat Warrior of Dawnbreak is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=19cDRQ7joC6XY6PF6HaStpGjC_4rzMrF-",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Ruby Hunter Cat Warrior of Dawnbreak"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Scout"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Common (23.90%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Silent Golden Mace of Storms"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "S"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Thriller"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2606\u2606\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "33.17%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Shadow"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 90
+    },
+    {
+      "trait_type": "Size",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 7
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 23
+    },
+    {
+      "trait_type": "Speed",
+      "value": 35
+    },
+    {
+      "trait_type": "Luck",
+      "value": 6
+    }
+  ]
+}

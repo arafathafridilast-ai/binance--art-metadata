@@ -1,0 +1,83 @@
+{
+  "name": "Sapphire Golden Cat Warrior of Brightfield",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Sapphire Golden Cat Warrior of Brightfield is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1hWOabPd42B0okZjxP237Vj6YLQcmL9zu",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Sapphire Golden Cat Warrior of Brightfield"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Rare (14.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Royal Thunder Bow of Frost"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "B"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Mystery"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2606\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "34.03%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ember"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 75
+    },
+    {
+      "trait_type": "Size",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "None"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Dots"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 0
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 12
+    },
+    {
+      "trait_type": "Speed",
+      "value": 94
+    },
+    {
+      "trait_type": "Luck",
+      "value": 27
+    }
+  ]
+}

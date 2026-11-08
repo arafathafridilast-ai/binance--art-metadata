@@ -1,0 +1,83 @@
+{
+  "name": "Azure Peppy Cat Warrior of Fierce Mountain",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Azure Peppy Cat Warrior of Fierce Mountain is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=139ZIcFrMzbPq-H8f2U2sS7HLgrd58zFs",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Azure Peppy Cat Warrior of Fierce Mountain"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Hunter"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Common (16.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Savage Lunar Crossbow of the Sun"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "A"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Sci-Fi"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2606\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "33.70%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Desert"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 135
+    },
+    {
+      "trait_type": "Size",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "None"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 14
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Power",
+      "value": 46
+    },
+    {
+      "trait_type": "Speed",
+      "value": 4
+    },
+    {
+      "trait_type": "Luck",
+      "value": 97
+    }
+  ]
+}

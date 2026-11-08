@@ -1,0 +1,83 @@
+{
+  "name": "Ruby Royal Cat Warrior of Crystal Bay",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Ruby Royal Cat Warrior of Crystal Bay is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1a55UiQyf-Fg719cNBXB0ZGxN5rK2Ny84",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Ruby Royal Cat Warrior of Crystal Bay"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Guardian"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Rare (12.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Royal Golden Sword of the Sun"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "C"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Western"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2605\u2605"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "26.93%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 90
+    },
+    {
+      "trait_type": "Size",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Dots"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 7
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Power",
+      "value": 25
+    },
+    {
+      "trait_type": "Speed",
+      "value": 62
+    },
+    {
+      "trait_type": "Luck",
+      "value": 88
+    }
+  ]
+}

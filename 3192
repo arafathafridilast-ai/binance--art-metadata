@@ -1,0 +1,83 @@
+{
+  "name": "Onyx Hunter Cat Warrior of Gentle Brook",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Onyx Hunter Cat Warrior of Gentle Brook is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1EtX59xBxP7mCR96Jz1loaJMM_M9LaW6t",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Onyx Hunter Cat Warrior of Gentle Brook"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Hunter"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Common (16.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Savage Mithril Dagger of Shadows"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "C"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2606\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "29.99%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Shadow"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 90
+    },
+    {
+      "trait_type": "Size",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 14
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Power",
+      "value": 40
+    },
+    {
+      "trait_type": "Speed",
+      "value": 70
+    },
+    {
+      "trait_type": "Luck",
+      "value": 35
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "name": "Ivory Shadow Cat Warrior of Hidden Valley",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Ivory Shadow Cat Warrior of Hidden Valley is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1lXusvFAS14d-eLEILdKXuZY8S1GQFeUq",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Ivory Shadow Cat Warrior of Hidden Valley"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Scout"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Common (23.90%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Silent Dragonbone Spear of Frost"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "C"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Thriller"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "21.15%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Rose"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 135
+    },
+    {
+      "trait_type": "Size",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "None"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Dots"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 0
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 33
+    },
+    {
+      "trait_type": "Speed",
+      "value": 74
+    },
+    {
+      "trait_type": "Luck",
+      "value": 79
+    }
+  ]
+}

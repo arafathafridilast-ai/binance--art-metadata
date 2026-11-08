@@ -1,0 +1,83 @@
+{
+  "name": "Onyx Royal Cat Warrior of Emberfall",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Onyx Royal Cat Warrior of Emberfall is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1PKYPhjAIVbD3pign1zFqjh3IAsoCr7WC",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Onyx Royal Cat Warrior of Emberfall"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Assassin"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Epic (7.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Silent Venom Dagger of Embers"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "B"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Adventure"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "22.96%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sunset"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 75
+    },
+    {
+      "trait_type": "Size",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "None"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 0
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 16
+    },
+    {
+      "trait_type": "Speed",
+      "value": 35
+    },
+    {
+      "trait_type": "Luck",
+      "value": 73
+    }
+  ]
+}

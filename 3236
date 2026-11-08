@@ -1,0 +1,83 @@
+{
+  "name": "Willow Peppy Cat Warrior of Lunar Eclipse",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Willow Peppy Cat Warrior of Lunar Eclipse is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1tHqQESRH7FvJhvg77u0q37Q7_dE3aSPY",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Willow Peppy Cat Warrior of Lunar Eclipse"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Rare (10.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Silent Silver Mace of the Deep"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "B"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Adventure"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2605\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "21.75%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Desert"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 135
+    },
+    {
+      "trait_type": "Size",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 7
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Power",
+      "value": 27
+    },
+    {
+      "trait_type": "Speed",
+      "value": 66
+    },
+    {
+      "trait_type": "Luck",
+      "value": 62
+    }
+  ]
+}

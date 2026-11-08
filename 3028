@@ -1,0 +1,83 @@
+{
+  "name": "Scarlet Lunar Cat Warrior of Braveheart",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Scarlet Lunar Cat Warrior of Braveheart is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1A1xQaacJze2uZil_Jexy_srqOtwJcsiI",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Scarlet Lunar Cat Warrior of Braveheart"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Rare (14.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Royal Shadow Dagger of the Void"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "S"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2606\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "37.31%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Desert"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 120
+    },
+    {
+      "trait_type": "Size",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Grid"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 0
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Power",
+      "value": 62
+    },
+    {
+      "trait_type": "Speed",
+      "value": 82
+    },
+    {
+      "trait_type": "Luck",
+      "value": 86
+    }
+  ]
+}

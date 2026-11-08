@@ -1,0 +1,83 @@
+{
+  "name": "Jasper Storm Cat Warrior of Wildmoor",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Jasper Storm Cat Warrior of Wildmoor is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1_6ZFc72Z_liIoT5hyJ6e9q9Cap0sFtEQ",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Jasper Storm Cat Warrior of Wildmoor"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Paladin"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Epic (5.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Blessed Solar Hammer of the Deep"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "B"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2605\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "35.31%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 75
+    },
+    {
+      "trait_type": "Size",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Dots"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 14
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 97
+    },
+    {
+      "trait_type": "Speed",
+      "value": 77
+    },
+    {
+      "trait_type": "Luck",
+      "value": 10
+    }
+  ]
+}

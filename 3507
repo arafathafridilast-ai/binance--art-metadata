@@ -1,0 +1,83 @@
+{
+  "name": "Willow Blaze Cat Warrior of Radiant City",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Willow Blaze Cat Warrior of Radiant City is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1VwP2wpp8AViimi2Syd7S_w7FKqe4rUA8",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Willow Blaze Cat Warrior of Radiant City"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Scout"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Common (23.90%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Savage Silver Sword of Light"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "A"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "39.45%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Rose"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 120
+    },
+    {
+      "trait_type": "Size",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Dots"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 7
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 70
+    },
+    {
+      "trait_type": "Speed",
+      "value": 33
+    },
+    {
+      "trait_type": "Luck",
+      "value": 90
+    }
+  ]
+}

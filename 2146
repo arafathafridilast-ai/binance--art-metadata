@@ -1,0 +1,83 @@
+{
+  "name": "Azure Silent Cat Warrior of Brightfield",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Azure Silent Cat Warrior of Brightfield is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1TDU8Fe2bO4Cw2TDpZq4OBpPpNFBYYYDM",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Azure Silent Cat Warrior of Brightfield"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Rare (14.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Savage Mithril Hammer of the Deep"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "A"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Thriller"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2606\u2606\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "24.57%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Shadow"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 105
+    },
+    {
+      "trait_type": "Size",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Grid"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 0
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 21
+    },
+    {
+      "trait_type": "Speed",
+      "value": 41
+    },
+    {
+      "trait_type": "Luck",
+      "value": 21
+    }
+  ]
+}

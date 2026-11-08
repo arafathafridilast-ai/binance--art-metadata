@@ -1,0 +1,83 @@
+{
+  "name": "Ruby Velvet Cat Warrior of Radiant City",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Ruby Velvet Cat Warrior of Radiant City is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1RdH_VM-idXZfJJ2ajGPebFrf1lSN2wK1",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Ruby Velvet Cat Warrior of Radiant City"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Guardian"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Rare (12.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Savage Lunar Bow of the Sun"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "C"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2606\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "28.00%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 105
+    },
+    {
+      "trait_type": "Size",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "None"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 7
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Power",
+      "value": 28
+    },
+    {
+      "trait_type": "Speed",
+      "value": 19
+    },
+    {
+      "trait_type": "Luck",
+      "value": 69
+    }
+  ]
+}

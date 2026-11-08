@@ -1,0 +1,83 @@
+{
+  "name": "Jasper Onyx Cat Warrior of Crystal Bay",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Jasper Onyx Cat Warrior of Crystal Bay is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1PSPfe76LgML02t2ZqnmseGWyTVIYaH8H",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Jasper Onyx Cat Warrior of Crystal Bay"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Royal"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Legendary (4.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Royal Lunar Crossbow of Light"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "C"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Mystery"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2605\u2605"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "38.77%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sunset"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 75
+    },
+    {
+      "trait_type": "Size",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "None"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Grid"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 7
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 37
+    },
+    {
+      "trait_type": "Speed",
+      "value": 43
+    },
+    {
+      "trait_type": "Luck",
+      "value": 44
+    }
+  ]
+}

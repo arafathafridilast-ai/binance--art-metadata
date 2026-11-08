@@ -1,0 +1,83 @@
+{
+  "name": "Sapphire Blaze Cat Warrior of Ancient Ruins",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Sapphire Blaze Cat Warrior of Ancient Ruins is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1QPmBfSWQ5u7sYPaa5ockNcERsyX0L7Np",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Sapphire Blaze Cat Warrior of Ancient Ruins"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Scout"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Common (23.90%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Royal Venom Axe of the Moon"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "SSR"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Fantasy"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "34.25%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 105
+    },
+    {
+      "trait_type": "Size",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 0
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 96
+    },
+    {
+      "trait_type": "Speed",
+      "value": 31
+    },
+    {
+      "trait_type": "Luck",
+      "value": 97
+    }
+  ]
+}

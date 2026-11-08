@@ -1,0 +1,83 @@
+{
+  "name": "Velvet Ruby Cat Warrior of Noble Court",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Velvet Ruby Cat Warrior of Noble Court is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1Dl4gYGOMTvV6U8qKm3km_Nuo-XnNRhSF",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Velvet Ruby Cat Warrior of Noble Court"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Guardian"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Rare (12.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Blessed Mithril Wand of Kings"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "C"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Adventure"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "38.54%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Rose"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 135
+    },
+    {
+      "trait_type": "Size",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Grid"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 14
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Power",
+      "value": 9
+    },
+    {
+      "trait_type": "Speed",
+      "value": 39
+    },
+    {
+      "trait_type": "Luck",
+      "value": 34
+    }
+  ]
+}

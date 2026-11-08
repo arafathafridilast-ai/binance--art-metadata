@@ -1,0 +1,83 @@
+{
+  "name": "Ivory Iron Cat Warrior of Golden Grove",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Ivory Iron Cat Warrior of Golden Grove is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1qfJqYgOoFChIlYCC6wtxcbJiAFEyt6Q-",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Ivory Iron Cat Warrior of Golden Grove"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Hunter"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Common (16.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Silent Dragonbone Bow of Thunder"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "B"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Sci-Fi"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2605\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "30.31%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Mint"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 105
+    },
+    {
+      "trait_type": "Size",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 7
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 67
+    },
+    {
+      "trait_type": "Speed",
+      "value": 25
+    },
+    {
+      "trait_type": "Luck",
+      "value": 51
+    }
+  ]
+}

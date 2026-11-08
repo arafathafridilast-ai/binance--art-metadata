@@ -1,0 +1,83 @@
+{
+  "name": "Velvet Daring Cat Warrior of Nightfall",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Velvet Daring Cat Warrior of Nightfall is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1xHPZjfEWVF3v2d6nZ9ZNK0ZomWa7i6n1",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Velvet Daring Cat Warrior of Nightfall"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Rare (14.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Silent Ember Dagger of the Moon"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "S"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Western"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "36.94%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Shadow"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 75
+    },
+    {
+      "trait_type": "Size",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 7
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 36
+    },
+    {
+      "trait_type": "Speed",
+      "value": 8
+    },
+    {
+      "trait_type": "Luck",
+      "value": 46
+    }
+  ]
+}

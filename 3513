@@ -1,0 +1,83 @@
+{
+  "name": "Azure Silent Cat Warrior of Thunder Ridge",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Azure Silent Cat Warrior of Thunder Ridge is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=11f0UQUa_af1gB4udwJjceDtV80VjqCie",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Azure Silent Cat Warrior of Thunder Ridge"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Hunter"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Common (16.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Royal Golden Dagger of Shadows"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "C"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Horror"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2605\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "37.70%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Midnight"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 120
+    },
+    {
+      "trait_type": "Size",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Dots"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 7
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 26
+    },
+    {
+      "trait_type": "Speed",
+      "value": 16
+    },
+    {
+      "trait_type": "Luck",
+      "value": 72
+    }
+  ]
+}

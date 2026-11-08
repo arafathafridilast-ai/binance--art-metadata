@@ -1,0 +1,83 @@
+{
+  "name": "Azure Silent Cat Warrior of Starhaven",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Azure Silent Cat Warrior of Starhaven is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1VqIa-nJtxy8bZG227Dou35dnRVDcOPuG",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Azure Silent Cat Warrior of Starhaven"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Assassin"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Epic (7.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Silent Starlight Scythe of Dusk"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "B"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Action"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2606\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "35.17%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Midnight"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 105
+    },
+    {
+      "trait_type": "Size",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 7
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Power",
+      "value": 35
+    },
+    {
+      "trait_type": "Speed",
+      "value": 1
+    },
+    {
+      "trait_type": "Luck",
+      "value": 57
+    }
+  ]
+}

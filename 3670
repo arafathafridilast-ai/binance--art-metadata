@@ -1,0 +1,83 @@
+{
+  "name": "Ruby Willow Cat Warrior of Brightfield",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Ruby Willow Cat Warrior of Brightfield is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1_DZosXbllqiMIYdiFZRx1foQ7Gp2N36R",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Ruby Willow Cat Warrior of Brightfield"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Royal"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Legendary (4.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Silent Lunar Katana of Dawn"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "C"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Western"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2606\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "36.45%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ember"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 105
+    },
+    {
+      "trait_type": "Size",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Grid"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 0
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 5
+    },
+    {
+      "trait_type": "Speed",
+      "value": 90
+    },
+    {
+      "trait_type": "Luck",
+      "value": 21
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "name": "Jasper Lucky Cat Warrior of Willow Creek",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Jasper Lucky Cat Warrior of Willow Creek is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1Ofl-1ImGBkFbgHMIe5blejcvTw4Y1M-Z",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Jasper Lucky Cat Warrior of Willow Creek"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Assassin"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Epic (7.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Blessed Silver Hammer of Embers"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "C"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Western"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2605\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "24.41%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Desert"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 75
+    },
+    {
+      "trait_type": "Size",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Dots"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 0
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Power",
+      "value": 56
+    },
+    {
+      "trait_type": "Speed",
+      "value": 38
+    },
+    {
+      "trait_type": "Luck",
+      "value": 68
+    }
+  ]
+}

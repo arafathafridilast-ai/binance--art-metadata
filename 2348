@@ -1,0 +1,83 @@
+{
+  "name": "Willow Ancient Cat Warrior of Stormrest",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Willow Ancient Cat Warrior of Stormrest is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1OGj1dKWnvrcdMQrjm88B3c9vfz5aAPrh",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Willow Ancient Cat Warrior of Stormrest"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Assassin"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Epic (7.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Silent Golden Hammer of the Moon"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "C"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Sci-Fi"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2606\u2606\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "22.45%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 90
+    },
+    {
+      "trait_type": "Size",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 14
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Power",
+      "value": 28
+    },
+    {
+      "trait_type": "Speed",
+      "value": 46
+    },
+    {
+      "trait_type": "Luck",
+      "value": 41
+    }
+  ]
+}

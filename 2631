@@ -1,0 +1,83 @@
+{
+  "name": "Thunder Gentle Cat Warrior of Noble Court",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Thunder Gentle Cat Warrior of Noble Court is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1HeUuSmqM6oJHhuEtyodHllHcmA_pp_As",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Thunder Gentle Cat Warrior of Noble Court"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Assassin"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Epic (7.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Royal Thunder Spear of Embers"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "C"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Adventure"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "23.37%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sunset"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 75
+    },
+    {
+      "trait_type": "Size",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Grid"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 7
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 71
+    },
+    {
+      "trait_type": "Speed",
+      "value": 5
+    },
+    {
+      "trait_type": "Luck",
+      "value": 87
+    }
+  ]
+}

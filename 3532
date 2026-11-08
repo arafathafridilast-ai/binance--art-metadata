@@ -1,0 +1,83 @@
+{
+  "name": "Sapphire Zesty Cat Warrior of Nightfall",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Sapphire Zesty Cat Warrior of Nightfall is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1p0zXKT7IL7Pb446MW3v90QsML8HgVKgT",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Sapphire Zesty Cat Warrior of Nightfall"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Hunter"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Common (16.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Blessed Ember Hammer of Dawn"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "B"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Fantasy"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2606\u2606\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "36.11%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 90
+    },
+    {
+      "trait_type": "Size",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Grid"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 0
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 1
+    },
+    {
+      "trait_type": "Speed",
+      "value": 52
+    },
+    {
+      "trait_type": "Luck",
+      "value": 30
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "name": "Jasper Daring Cat Warrior of Frog Pond",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Jasper Daring Cat Warrior of Frog Pond is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=15r9H9k_zmw4czi8JUCELjUgTm8hBNbZz",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Jasper Daring Cat Warrior of Frog Pond"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Rare (10.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Blessed Golden Katana of Shadows"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "B"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Romance"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2606\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "21.64%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Midnight"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 105
+    },
+    {
+      "trait_type": "Size",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 14
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Power",
+      "value": 79
+    },
+    {
+      "trait_type": "Speed",
+      "value": 97
+    },
+    {
+      "trait_type": "Luck",
+      "value": 20
+    }
+  ]
+}

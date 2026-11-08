@@ -1,0 +1,83 @@
+{
+  "name": "Ivory Golden Cat Warrior of Velvet Valley",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Ivory Golden Cat Warrior of Velvet Valley is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1feeFLl6IB2kP2L1zLeKrGbcTWKhfW6dL",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Ivory Golden Cat Warrior of Velvet Valley"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Scout"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Common (23.90%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Royal Silver Mace of the Void"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "C"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2606\u2606\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "38.27%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ocean"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 120
+    },
+    {
+      "trait_type": "Size",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "None"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 7
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Power",
+      "value": 83
+    },
+    {
+      "trait_type": "Speed",
+      "value": 26
+    },
+    {
+      "trait_type": "Luck",
+      "value": 95
+    }
+  ]
+}

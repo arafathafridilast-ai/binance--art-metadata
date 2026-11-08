@@ -1,0 +1,83 @@
+{
+  "name": "Sapphire Clever Cat Warrior of Nightfall",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Sapphire Clever Cat Warrior of Nightfall is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=16aMACcHufUDoeO6NcB1RRV0UQr3j7u5_",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Sapphire Clever Cat Warrior of Nightfall"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Guardian"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Rare (12.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Royal Solar Axe of Legends"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "SR"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Thriller"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2605\u2605"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "20.77%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 90
+    },
+    {
+      "trait_type": "Size",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "None"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Dots"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 0
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 42
+    },
+    {
+      "trait_type": "Speed",
+      "value": 35
+    },
+    {
+      "trait_type": "Luck",
+      "value": 95
+    }
+  ]
+}

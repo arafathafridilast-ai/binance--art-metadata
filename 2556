@@ -1,0 +1,83 @@
+{
+  "name": "Jasper Crimson Cat Warrior of Skyreach",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Jasper Crimson Cat Warrior of Skyreach is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1GcAuYk4PAuhFUnquYkgjRJ8TXcbBKdsE",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Jasper Crimson Cat Warrior of Skyreach"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Rare (10.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Silent Silver Spear of Light"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "C"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Western"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2606\u2606\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "36.61%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 105
+    },
+    {
+      "trait_type": "Size",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Grid"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 14
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 13
+    },
+    {
+      "trait_type": "Speed",
+      "value": 50
+    },
+    {
+      "trait_type": "Luck",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "name": "Azure Thunder Cat Warrior of Silver Lake",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Azure Thunder Cat Warrior of Silver Lake is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=15424rZcfEVd281ZiPPK9nrfi94NmBp-w",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Azure Thunder Cat Warrior of Silver Lake"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Hunter"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Common (16.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Savage Silver Axe of Storms"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "S"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Western"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "24.50%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 90
+    },
+    {
+      "trait_type": "Size",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "None"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 0
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Power",
+      "value": 90
+    },
+    {
+      "trait_type": "Speed",
+      "value": 27
+    },
+    {
+      "trait_type": "Luck",
+      "value": 75
+    }
+  ]
+}

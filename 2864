@@ -1,0 +1,83 @@
+{
+  "name": "Scarlet Golden Cat Warrior of Willow Creek",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Scarlet Golden Cat Warrior of Willow Creek is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1_CydXYI3JeQ-zgZghpFJlrTT-qqWH-ub",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Scarlet Golden Cat Warrior of Willow Creek"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Hunter"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Common (16.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Silent Solar Spear of Frost"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "C"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "25.50%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ocean"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 90
+    },
+    {
+      "trait_type": "Size",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 7
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 49
+    },
+    {
+      "trait_type": "Speed",
+      "value": 4
+    },
+    {
+      "trait_type": "Luck",
+      "value": 69
+    }
+  ]
+}

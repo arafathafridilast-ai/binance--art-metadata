@@ -1,0 +1,83 @@
+{
+  "name": "Willow Iron Cat Warrior of Radiant City",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Willow Iron Cat Warrior of Radiant City is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1zX9ZrW_dP-3KhoYSaB3_-Dpx9T8xaC3w",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Willow Iron Cat Warrior of Radiant City"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Guardian"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Rare (12.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Silent Mithril Scythe of Dawn"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "A"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Action"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2606\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "34.07%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Desert"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 120
+    },
+    {
+      "trait_type": "Size",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "None"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 14
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Power",
+      "value": 42
+    },
+    {
+      "trait_type": "Speed",
+      "value": 70
+    },
+    {
+      "trait_type": "Luck",
+      "value": 72
+    }
+  ]
+}

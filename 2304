@@ -1,0 +1,83 @@
+{
+  "name": "Sapphire Noble Cat Warrior of Dusky Town",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Sapphire Noble Cat Warrior of Dusky Town is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=14WuPTTsBgEacKNDlS6Ewe2AX5YnCAQk9",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Sapphire Noble Cat Warrior of Dusky Town"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Paladin"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Epic (5.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Blessed Venom Axe of Kings"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "S"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Horror"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2606\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "36.21%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 105
+    },
+    {
+      "trait_type": "Size",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "None"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "None"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 14
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 47
+    },
+    {
+      "trait_type": "Speed",
+      "value": 19
+    },
+    {
+      "trait_type": "Luck",
+      "value": 51
+    }
+  ]
+}
