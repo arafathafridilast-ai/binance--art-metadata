@@ -1,0 +1,83 @@
+{
+  "name": "Dusky Brave Cat Warrior of Azure Coast",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Dusky Brave Cat Warrior of Azure Coast is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=19VyVEIjac1qMG9SKECQ-RlTRS2zCEqer",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Dusky Brave Cat Warrior of Azure Coast"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Hunter"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Common (16.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Stormy Ember Hammer of Legends"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "C"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Thriller"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2605\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "83.49%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sunset"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 315
+    },
+    {
+      "trait_type": "Size",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "None"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "None"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 14
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 42
+    },
+    {
+      "trait_type": "Speed",
+      "value": 1
+    },
+    {
+      "trait_type": "Luck",
+      "value": 2
+    }
+  ]
+}

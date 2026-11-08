@@ -1,0 +1,83 @@
+{
+  "name": "Quirky Zesty Cat Warrior of Fierce Mountain",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Quirky Zesty Cat Warrior of Fierce Mountain is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=10XBdU2W_d2iFZKAGASishMz8XTpc4Kgu",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Quirky Zesty Cat Warrior of Fierce Mountain"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Guardian"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Rare (12.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Radiant Crystal Katana of Thunder"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "A"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Sci-Fi"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "95.63%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Desert"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 330
+    },
+    {
+      "trait_type": "Size",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "None"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Dots"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 14
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Power",
+      "value": 10
+    },
+    {
+      "trait_type": "Speed",
+      "value": 84
+    },
+    {
+      "trait_type": "Luck",
+      "value": 30
+    }
+  ]
+}
