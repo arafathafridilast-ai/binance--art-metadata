@@ -1,0 +1,83 @@
+{
+  "name": "Lunar Solar Cat Warrior of Hunter's Glen",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Lunar Solar Cat Warrior of Hunter's Glen is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=19DLZMRNwnpyrjkI63_dd9C6Fx9Bwy8rp",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Lunar Solar Cat Warrior of Hunter's Glen"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Assassin"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Epic (7.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Noble Silver Staff of Embers"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "C"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Thriller"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2605\u2605"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "66.10%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 270
+    },
+    {
+      "trait_type": "Size",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 0
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Power",
+      "value": 84
+    },
+    {
+      "trait_type": "Speed",
+      "value": 23
+    },
+    {
+      "trait_type": "Luck",
+      "value": 88
+    }
+  ]
+}

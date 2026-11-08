@@ -1,0 +1,83 @@
+{
+  "name": "Mystic Blaze Cat Warrior of Frog Pond",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Mystic Blaze Cat Warrior of Frog Pond is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=15fZ8keT-KTtw9b1R2UnuIRLLT4eoJnS2",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Mystic Blaze Cat Warrior of Frog Pond"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Royal"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Legendary (4.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Fierce Obsidian Katana of Kings"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "C"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "69.79%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Midnight"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 225
+    },
+    {
+      "trait_type": "Size",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Dots"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 14
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 8
+    },
+    {
+      "trait_type": "Speed",
+      "value": 28
+    },
+    {
+      "trait_type": "Luck",
+      "value": 19
+    }
+  ]
+}

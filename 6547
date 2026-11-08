@@ -1,0 +1,83 @@
+{
+  "name": "Gentle Mystic Cat Warrior of Jasper Town",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Gentle Mystic Cat Warrior of Jasper Town is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=18oWgGqEeKpJTetWPkz6qgFl3XgKkxPca",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Gentle Mystic Cat Warrior of Jasper Town"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Scout"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Common (23.90%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Noble Thunder Hammer of Thunder"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "C"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Sci-Fi"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2605\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "71.16%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ocean"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 270
+    },
+    {
+      "trait_type": "Size",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "None"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Dots"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 7
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 82
+    },
+    {
+      "trait_type": "Speed",
+      "value": 24
+    },
+    {
+      "trait_type": "Luck",
+      "value": 66
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "name": "Mystic Lucky Cat Warrior of Golden Grove",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Mystic Lucky Cat Warrior of Golden Grove is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=12pxnFvwqmmvnm0MSFOxiA2bX24-c9pl9",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Mystic Lucky Cat Warrior of Golden Grove"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Scout"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Common (23.90%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Wild Frost Spear of Light"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "S"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Sci-Fi"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "75.42%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Rose"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 240
+    },
+    {
+      "trait_type": "Size",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Dots"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 7
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 92
+    },
+    {
+      "trait_type": "Speed",
+      "value": 51
+    },
+    {
+      "trait_type": "Luck",
+      "value": 28
+    }
+  ]
+}

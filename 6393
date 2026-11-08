@@ -1,0 +1,83 @@
+{
+  "name": "Gentle Mystic Cat Warrior of Deepwood",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Gentle Mystic Cat Warrior of Deepwood is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1DuCkt7VB59S0BTpOiZXEmUjh7W0rL5Zb",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Gentle Mystic Cat Warrior of Deepwood"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Scout"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Common (23.90%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Noble Dragonbone Mace of the Deep"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "SSR+"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Sci-Fi"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2606\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "60.86%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sunset"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 255
+    },
+    {
+      "trait_type": "Size",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "None"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 14
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Power",
+      "value": 10
+    },
+    {
+      "trait_type": "Speed",
+      "value": 60
+    },
+    {
+      "trait_type": "Luck",
+      "value": 90
+    }
+  ]
+}

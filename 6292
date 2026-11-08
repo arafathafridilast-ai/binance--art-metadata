@@ -1,0 +1,83 @@
+{
+  "name": "Iron Frost Cat Warrior of Ironhold",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Iron Frost Cat Warrior of Ironhold is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=17ls8SOzPhSpIzP2k9u5BzliYuJ2ODnQ8",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Iron Frost Cat Warrior of Ironhold"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Hunter"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Common (16.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Wild Dragonbone Staff of Frost"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "S"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Western"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2605\u2605"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "71.84%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Shadow"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 270
+    },
+    {
+      "trait_type": "Size",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 7
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Power",
+      "value": 66
+    },
+    {
+      "trait_type": "Speed",
+      "value": 83
+    },
+    {
+      "trait_type": "Luck",
+      "value": 16
+    }
+  ]
+}

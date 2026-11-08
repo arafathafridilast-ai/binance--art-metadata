@@ -1,0 +1,83 @@
+{
+  "name": "Iron Willow Cat Warrior of Ember Isle",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Iron Willow Cat Warrior of Ember Isle is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1tpAUg1pr3V6ghLZSPhehRFIi0Fz5mf1y",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Iron Willow Cat Warrior of Ember Isle"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Royal"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Legendary (4.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Noble Silver Mace of Light"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "S"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2606\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "73.39%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Mint"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 255
+    },
+    {
+      "trait_type": "Size",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "None"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Grid"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 14
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Power",
+      "value": 32
+    },
+    {
+      "trait_type": "Speed",
+      "value": 6
+    },
+    {
+      "trait_type": "Luck",
+      "value": 84
+    }
+  ]
+}

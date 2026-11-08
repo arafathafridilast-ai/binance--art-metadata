@@ -1,0 +1,83 @@
+{
+  "name": "Mystic Brave Cat Warrior of Ancient Ruins",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Mystic Brave Cat Warrior of Ancient Ruins is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=15P-VCpnkL7Mm6aRQ4iP1nRBO9c3RGVYO",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Mystic Brave Cat Warrior of Ancient Ruins"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Royal"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Legendary (4.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Noble Thunder Hammer of Light"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "SSR"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Romance"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2605\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "61.73%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Mint"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 240
+    },
+    {
+      "trait_type": "Size",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "None"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "None"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 7
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Power",
+      "value": 94
+    },
+    {
+      "trait_type": "Speed",
+      "value": 81
+    },
+    {
+      "trait_type": "Luck",
+      "value": 63
+    }
+  ]
+}

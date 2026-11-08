@@ -1,0 +1,83 @@
+{
+  "name": "Fierce Quirky Cat Warrior of Stormrest",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Fierce Quirky Cat Warrior of Stormrest is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1wIOtbLANnmuGBGeL9hjIc3BOeLi2VtUG",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Fierce Quirky Cat Warrior of Stormrest"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Mystic"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Epic (8.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Noble Obsidian Hammer of Light"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "C"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Romance"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2606\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "62.41%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 225
+    },
+    {
+      "trait_type": "Size",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "None"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 0
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Power",
+      "value": 1
+    },
+    {
+      "trait_type": "Speed",
+      "value": 34
+    },
+    {
+      "trait_type": "Luck",
+      "value": 23
+    }
+  ]
+}

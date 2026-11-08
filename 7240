@@ -1,0 +1,83 @@
+{
+  "name": "Lunar Golden Cat Warrior of Willow Creek",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Lunar Golden Cat Warrior of Willow Creek is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1_Fmih2f1X3Vh6t-vHZl5mH21qvw4VRe6",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Lunar Golden Cat Warrior of Willow Creek"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Paladin"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Epic (5.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Noble Obsidian Bow of Frost"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "SSR+"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Romance"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2605\u2605"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "70.20%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 255
+    },
+    {
+      "trait_type": "Size",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Grid"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 14
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Power",
+      "value": 8
+    },
+    {
+      "trait_type": "Speed",
+      "value": 19
+    },
+    {
+      "trait_type": "Luck",
+      "value": 95
+    }
+  ]
+}

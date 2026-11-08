@@ -1,0 +1,83 @@
+{
+  "name": "Crystal Iron Cat Warrior of Willow Creek",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Crystal Iron Cat Warrior of Willow Creek is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=18gDoz-SJFD2UxeqA2kkVbZO4i_OYPQGH",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Crystal Iron Cat Warrior of Willow Creek"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Scout"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Common (23.90%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Wild Lunar Mace of the Deep"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "B"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2605\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "68.01%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ember"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 270
+    },
+    {
+      "trait_type": "Size",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "None"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "None"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 14
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Power",
+      "value": 2
+    },
+    {
+      "trait_type": "Speed",
+      "value": 9
+    },
+    {
+      "trait_type": "Luck",
+      "value": 1
+    }
+  ]
+}

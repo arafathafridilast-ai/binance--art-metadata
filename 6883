@@ -1,0 +1,83 @@
+{
+  "name": "Radiant Frosty Cat Warrior of Skyreach",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Radiant Frosty Cat Warrior of Skyreach is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1eLDVOdmoOkBHlrj0gUL1Q54AEEuVDM1Z",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Radiant Frosty Cat Warrior of Skyreach"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Mystic"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Epic (8.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Wild Lunar Katana of the Moon"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "S"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Horror"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "65.45%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sunset"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 270
+    },
+    {
+      "trait_type": "Size",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "None"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Grid"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 0
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Power",
+      "value": 11
+    },
+    {
+      "trait_type": "Speed",
+      "value": 47
+    },
+    {
+      "trait_type": "Luck",
+      "value": 22
+    }
+  ]
+}

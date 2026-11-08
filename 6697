@@ -1,0 +1,83 @@
+{
+  "name": "Gentle Ruby Cat Warrior of Dawnbreak",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Gentle Ruby Cat Warrior of Dawnbreak is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=16wIpNNu5ckrFJHyqfhcHXz3iYwgXb9AT",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Gentle Ruby Cat Warrior of Dawnbreak"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Paladin"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Epic (5.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Noble Venom Scythe of the Deep"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "A"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Comedy"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2605\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "76.14%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Shadow"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 255
+    },
+    {
+      "trait_type": "Size",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 14
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Power",
+      "value": 37
+    },
+    {
+      "trait_type": "Speed",
+      "value": 66
+    },
+    {
+      "trait_type": "Luck",
+      "value": 18
+    }
+  ]
+}

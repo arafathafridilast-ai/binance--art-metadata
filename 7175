@@ -1,0 +1,83 @@
+{
+  "name": "Fierce Hidden Cat Warrior of Wildmoor",
+  "description": "Binance ART is a 9,999-piece pixel cat collection on BNB Chain. 1 per wallet, 0.0001 BNB per mint. Fierce Hidden Cat Warrior of Wildmoor is a one-of-a-kind Cat Warrior.",
+  "image": "https://drive.google.com/uc?export=download&id=1aWvn8akoM5loFeEXlJSHSvXxQhLQBd6-",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Fierce Hidden Cat Warrior of Wildmoor"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Cat Warrior"
+    },
+    {
+      "trait_type": "Animal Category",
+      "value": "Guardian"
+    },
+    {
+      "trait_type": "Category Rarity",
+      "value": "Rare (12.00%)"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Fierce Venom Dagger of Frost"
+    },
+    {
+      "trait_type": "Weapon Rarity",
+      "value": "A"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Mystery"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "\u2605\u2605\u2605\u2606\u2606"
+    },
+    {
+      "trait_type": "Percentage",
+      "value": "76.09%"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Mint"
+    },
+    {
+      "trait_type": "Hue Shift",
+      "value": 285
+    },
+    {
+      "trait_type": "Size",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Grid"
+    },
+    {
+      "trait_type": "Sparkles",
+      "value": 0
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Power",
+      "value": 95
+    },
+    {
+      "trait_type": "Speed",
+      "value": 22
+    },
+    {
+      "trait_type": "Luck",
+      "value": 46
+    }
+  ]
+}
